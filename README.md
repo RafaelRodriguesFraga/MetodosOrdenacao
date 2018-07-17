@@ -8,14 +8,9 @@ Crie um arquivo com números a serem ordenados com o Arquivo "GeraNumeros". Siga
 
 ![aleatoriosdistintos](https://user-images.githubusercontent.com/29709111/42792537-1ff34ae2-894c-11e8-8647-06e182292502.png)
 
-   Você pode organizar os números de 6 maneiras:
-        1 - Aleatorios e Distintos
-        2 - Aleatórios com Repetição
-        3 - Crescentes e Distintos
-        4 - Crescentes com Repetição
-        5 - Decrescentes e Distintos
-        6 - Decrescentes com RepetiçãoComo estao organizados os numeros?
-
+   Você pode organizar os números de 6 maneiras: Aleatorios e Distintos, Aleatórios com Repetição, Crescentes e Distintos,
+   Crescentes com Repetição, Decrescentes e Distintos e Decrescentes com Repetição.
+        
    Após isso é só escolher o tamanho do Vetor no qual queira que seja ordenado e o limite dos números.
    No exemplo acima, escolhemos 100.000 como tamanho do vetor e limite de numeros com 100.000 então os numeros irão
    de 0 a 99.999. Feito tudo isso, os numeros serão salvo em um arquivo .txt. Dê um nome ao arquivo.
@@ -37,4 +32,4 @@ Crie um arquivo com números a serem ordenados com o Arquivo "GeraNumeros". Siga
 ### **Considerações Finais**
 
    Esse código foi um trabalho feito na IDE Netbeans para a Disciplina de Projeto e Análise de Algoritmos
-   pela UCV - Católica de Vitória Centro Universitário. 
+   pela UCV - Católica de Vitória Centro Universitário, em Vitória - ES. 
